@@ -29,7 +29,7 @@ Website - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
 ## Data Model
-[Dimension_Modelling.pdf](https://github.com/vikash-singh-prac/Uber_ETL_pipeline_data_eng_project/files/12209486/Dimension_Modelling.pdf)
+![Dimension_Modelling](https://github.com/vikash-singh-prac/Uber_ETL_pipeline_data_eng_project/assets/58064949/09dd13db-567c-4602-8536-43c2f49a132e)
 
 
 
